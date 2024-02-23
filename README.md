@@ -14,3 +14,7 @@ Problem :- format the visualization
   Accuracy of the Result :
   Feature Importance: Use top features from random forest.
   Classification Models: Visualize accuracy for each model.
+
+
+
+  Another Approach(not in code) :- use problematic_range from box_plot lower_fence and upper_fence and do further analysis
